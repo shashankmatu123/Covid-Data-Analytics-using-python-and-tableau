@@ -1,1 +1,2 @@
 # Covid-Data-Analytics-using-python-and-tableau
+•	The covid-19 data analysis project combines python for data processing and analysis data with Tableau for interactive data Visualization. Through this project, crucial insights into the spread of the virus, testing trends, and vaccination rates are extracted and presented in visually informative dashboards, aiding in understanding and decision-making during the pandemic. 
